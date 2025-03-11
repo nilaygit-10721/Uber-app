@@ -1,5 +1,8 @@
 # Uber Clone with React Native and TypeScript
 ![alt text](image.png)
+
+
+
 Tech stack:
 - React Native
 - TypeScript
